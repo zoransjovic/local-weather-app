@@ -1,3 +1,4 @@
+// Current Weather interface
 export interface ICurrentWeather {
   city: string
   country: string
