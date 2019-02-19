@@ -1,1 +1,1 @@
-FROM duluca/localcast-weather:6.0.1
+FROM zoransjovic/localcast-weather:1.0.1
